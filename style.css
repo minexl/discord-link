@@ -3,6 +3,7 @@ body {
     text-decoration-color: white;
 }
 .centerheader {
+    text-emphasis-color: white;
     text-align: center;
     text-decoration: underline;
 }
