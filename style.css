@@ -1,11 +1,12 @@
 body {
     background-color: black;
-    color: white;
 }
 .centerheader {
     text-align: center;
     text-decoration: underline;
+    color: white;
 }
 .centerparagraph {
     text-align: center;
+    color: white;
 }
